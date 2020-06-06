@@ -4,8 +4,6 @@
 风格灵感来源：无头骑士异闻录聊天室
 
 基本样式参考：内置Night主题 + viatorsun.css
-<<<<<<< HEAD
-=======
 
 **样式1**
 
@@ -22,4 +20,3 @@
 **样式4**
 
 ![](https://tva4.sinaimg.cn/large/0088xDfYgy1gfi9izd9k3j30j708n0sv.jpg)
->>>>>>> 更新README
